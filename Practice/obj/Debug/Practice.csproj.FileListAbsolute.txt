@@ -1,0 +1,6 @@
+C:\Users\ronald.job.e.sta.ana\Desktop\MVC Practice\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\ronald.job.e.sta.ana\Desktop\MVC Practice\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\ronald.job.e.sta.ana\Desktop\MVC Practice\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\ronald.job.e.sta.ana\Desktop\MVC Practice\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\ronald.job.e.sta.ana\Desktop\MVC Practice\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\ronald.job.e.sta.ana\Desktop\MVC Practice\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
